@@ -11,7 +11,9 @@ PDF Merger is a simple graphical user interface (GUI) application built using Py
 
 ## Usage
 
-Either run the file `pdf-merger.py` with Python, or compile the script into an executable using a tool like `pyinstaller`.
+Either run the file `pdf-merger.py` with Python, or compile the script into an executable using a tool like [pyinstaller](https://pypi.org/project/pyinstaller/).
+
+```bash
 
 ## Development
 
